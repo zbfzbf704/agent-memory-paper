@@ -2,13 +2,13 @@
 
 **Three Conflated Signals in Long-Running Agent Memory Systems**
 
-[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.23068931-blue)](https://doi.org/10.5281/zenodo.23068931)
+[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.23068930-blue)](https://doi.org/10.5281/zenodo.23068930)
 [![License: CC BY 4.0](https://img.shields.io/badge/Paper-CC%20BY%204.0-lightgrey)](https://creativecommons.org/licenses/by/4.0/)
 [![License: MIT](https://img.shields.io/badge/Code-MIT-green)](https://opensource.org/licenses/MIT)
 
 Baofeng Zhao · Independent Researcher · baofeng@hudiege.cn
 
-> Preprint DOI: **[10.5281/zenodo.23068931](https://doi.org/10.5281/zenodo.23068931)** · Project page: **https://www.hudiege.cn/research/**
+> Preprint DOI: **[10.5281/zenodo.23068930](https://doi.org/10.5281/zenodo.23068930)** · Project page: **https://www.hudiege.cn/research/**
 
 ---
 
@@ -76,7 +76,7 @@ python3 tools/sigma_access_check.py --db path/to/your.db --table nodes \
   title  = {Salience, Ranking, and Metabolism: Three Conflated Signals in Long-Running Agent Memory Systems},
   author = {Zhao, Baofeng},
   year   = {2026},
-  doi    = {10.5281/zenodo.23068931},
+  doi    = {10.5281/zenodo.23068930},
   url    = {https://www.hudiege.cn/research/paper.html},
   note   = {Preprint}
 }
@@ -91,6 +91,6 @@ python3 tools/sigma_access_check.py --db path/to/your.db --table nodes \
 
 本文论证：智能体记忆把"重要性"当成一个信号，但它其实是三个被混用的信号——**浓度（σ，数据固有）、排序（ρ，查询时服务）、代谢（μ，生命周期）**。混用不是实现瑕疵，是结构性类别错误。论文用 14 个月以上的真实生产数据记录三类故障，并给出四条不变量、六条设计法则和两个当天可执行的自查工具（见 `tools/`）。
 
-- 预印本 DOI：[10.5281/zenodo.23068931](https://doi.org/10.5281/zenodo.23068931)
+- 预印本 DOI：[10.5281/zenodo.23068930](https://doi.org/10.5281/zenodo.23068930)
 - 项目页：https://www.hudiege.cn/research/
 - 论文文本 CC BY 4.0，代码 MIT。
