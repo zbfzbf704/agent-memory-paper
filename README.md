@@ -22,7 +22,7 @@ Agent memory systems routinely treat "importance" as a single signal. We argue t
 | **Ranking** ρ | service | a query-time score (bounded, decaying, recomputable) | written back into the data |
 | **Metabolism** μ | lifecycle | item-level cascade retirement | triggered by popularity |
 
-The paper contributes a signal taxonomy with four invariants (I0–I3), six design laws, and two audit tools — with production failure evidence from about **7 months** of a live conversational memory system.
+The paper contributes a signal taxonomy with four invariants (I0–I3), seven design laws, and two audit tools — with production failure evidence from about **7 months** of a live conversational memory system.
 
 ## The three failures (production-measured)
 
