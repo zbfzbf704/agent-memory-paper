@@ -22,7 +22,7 @@ Agent memory systems routinely treat "importance" as a single signal. We argue t
 | **Ranking** ρ | service | a query-time score (bounded, decaying, recomputable) | written back into the data |
 | **Metabolism** μ | lifecycle | item-level cascade retirement | triggered by popularity |
 
-The paper contributes a signal taxonomy with four invariants (I0–I3), six design laws, and two audit tools — with production failure evidence from **8 months** of a live conversational memory system.
+The paper contributes a signal taxonomy with four invariants (I0–I3), six design laws, and two audit tools — with production failure evidence from about **7 months** of a live conversational memory system.
 
 ## The three failures (production-measured)
 
@@ -89,7 +89,7 @@ python3 tools/sigma_access_check.py --db path/to/your.db --table nodes \
 
 ## 中文说明
 
-本文论证：智能体记忆把"重要性"当成一个信号，但它其实是三个被混用的信号——**浓度（σ，数据固有）、排序（ρ，查询时服务）、代谢（μ，生命周期）**。混用不是实现瑕疵，是结构性类别错误。论文用约 8 个月的真实生产数据记录三类故障，并给出四条不变量、六条设计法则和两个当天可执行的自查工具（见 `tools/`）。
+本文论证：智能体记忆把"重要性"当成一个信号，但它其实是三个被混用的信号——**浓度（σ，数据固有）、排序（ρ，查询时服务）、代谢（μ，生命周期）**。混用不是实现瑕疵，是结构性类别错误。论文用约 7 个月（自 2026-03 起）的真实生产数据记录三类故障，并给出四条不变量、六条设计法则和两个当天可执行的自查工具（见 `tools/`）。
 
 - 预印本 DOI：[10.5281/zenodo.23068930](https://doi.org/10.5281/zenodo.23068930)
 - 项目页：https://www.hudiege.cn/research/
