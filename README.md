@@ -92,7 +92,7 @@ python3 tools/sigma_access_check.py --db path/to/your.db --table nodes \
   author = {Zhao, Baofeng},
   year   = {2026},
   doi    = {10.5281/zenodo.23068930},
-  url    = {https://www.hudiege.cn/research/paper.html},
+  url    = {https://www.hudiege.cn/research/salience-ranking.html},
   note   = {Preprint}
 }
 ```
