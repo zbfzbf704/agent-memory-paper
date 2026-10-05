@@ -1,3 +1,15 @@
+# Agent Memory Papers
+
+Research papers by Baofeng Zhao on long-running agent memory systems. All under TMLR review; preprints on Zenodo (CC BY 4.0).
+
+| Paper | TMLR | Preprint (concept DOI) |
+|---|---|---|
+| **Salience, Ranking, and Metabolism** — three conflated signals; production failure evidence (~7 months live) | #12919 in review | [10.5281/zenodo.23068930](https://doi.org/10.5281/zenodo.23068930) |
+| **Stopping as a Database Property** — reason-bearing termination for long-running LLM agents | #12935 in review | [10.5281/zenodo.23144014](https://doi.org/10.5281/zenodo.23144014) |
+| **Cold-Start Ranking** — architectural semantic labels predict memory use where graph methods go blind | #12955 in review | [10.5281/zenodo.23160455](https://doi.org/10.5281/zenodo.23160455) |
+
+---
+
 # Salience, Ranking, and Metabolism
 
 **Three Conflated Signals in Long-Running Agent Memory Systems**
@@ -37,7 +49,10 @@ The paper contributes a signal taxonomy with four invariants (I0–I3), seven de
 
 ```
 paper/
-  salience_ranking_metabolism.pdf      # English (DOI version)
+  salience_ranking_metabolism.pdf      # Paper 1 (EN, DOI version)
+  salience_ranking_metabolism_zh.pdf
+  db_metacognition_en.pdf / db_metacognition_zh.pdf      # Paper 2
+  coldstart_ranking_en.pdf / coldstart_ranking_zh.pdf    # Paper 3
   salience_ranking_metabolism_zh.pdf   # Chinese
   figures/                             # all 7 figures (PNG, 2x)
 tools/
