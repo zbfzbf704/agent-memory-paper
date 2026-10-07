@@ -4,10 +4,10 @@ Research papers by Baofeng Zhao on long-running agent memory systems. Preprints 
 
 | Paper | Status | Preprint (concept DOI) |
 |---|---|---|
-| **Salience, Ranking, and Metabolism** — three conflated signals; production failure evidence (~7 months live) | Preprint v1.8 (2026-10) | [10.5281/zenodo.23068930](https://doi.org/10.5281/zenodo.23068930) |
-| **Stopping as a Database Property** — reason-bearing termination for long-running LLM agents | Preprint v1.2 (2026-10) | [10.5281/zenodo.23144013](https://doi.org/10.5281/zenodo.23144013) |
-| **Cold-Start Ranking** — architectural semantic labels predict memory use where graph methods go blind | Preprint v1.4 (2026-10) | [10.5281/zenodo.23160455](https://doi.org/10.5281/zenodo.23160455) |
-| **An Evidenced Account** — field notes from running a personal agent system (essay) | Published v1.3 (2026-10) | [10.5281/zenodo.23187419](https://doi.org/10.5281/zenodo.23187419) |
+| **Salience, Ranking, and Metabolism** — three conflated signals; production failure evidence (~7 months live) | TMLR #12919 desk rejected (2026-10) · Preprint v1.8 | [10.5281/zenodo.23068930](https://doi.org/10.5281/zenodo.23068930) |
+| **Stopping as a Database Property** — reason-bearing termination for long-running LLM agents | TMLR #12935 desk rejected (2026-10) · Preprint v1.2 | [10.5281/zenodo.23144013](https://doi.org/10.5281/zenodo.23144013) |
+| **Cold-Start Ranking** — architectural semantic labels predict memory use where graph methods go blind | TMLR #12955 desk rejected (2026-10) · Preprint v1.4 | [10.5281/zenodo.23160455](https://doi.org/10.5281/zenodo.23160455) |
+| **An Evidenced Account** — field notes from running a personal agent system (essay) | Independent essay · Published v1.3 | [10.5281/zenodo.23187419](https://doi.org/10.5281/zenodo.23187419) |
 
 ---
 
