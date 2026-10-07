@@ -1,13 +1,13 @@
 # Agent Memory Papers
 
-Research papers by Baofeng Zhao on long-running agent memory systems. All under TMLR review; preprints on Zenodo (CC BY 4.0).
+Research papers by Baofeng Zhao on long-running agent memory systems. Preprints on Zenodo (CC BY 4.0); workshop submissions in preparation.
 
-| Paper | TMLR | Preprint (concept DOI) |
+| Paper | Status | Preprint (concept DOI) |
 |---|---|---|
-| **Salience, Ranking, and Metabolism** — three conflated signals; production failure evidence (~7 months live) | #12919 in review | [10.5281/zenodo.23068930](https://doi.org/10.5281/zenodo.23068930) |
-| **Stopping as a Database Property** — reason-bearing termination for long-running LLM agents | #12935 in review | [10.5281/zenodo.23144013](https://doi.org/10.5281/zenodo.23144013) |
-| **Cold-Start Ranking** — architectural semantic labels predict memory use where graph methods go blind | #12955 in review | [10.5281/zenodo.23160455](https://doi.org/10.5281/zenodo.23160455) |
-| **An Evidenced Account** — field notes from running a personal agent system (essay) | Independent | [10.5281/zenodo.23187419](https://doi.org/10.5281/zenodo.23187419) |
+| **Salience, Ranking, and Metabolism** — three conflated signals; production failure evidence (~7 months live) | Preprint v1.8 (2026-10) | [10.5281/zenodo.23068930](https://doi.org/10.5281/zenodo.23068930) |
+| **Stopping as a Database Property** — reason-bearing termination for long-running LLM agents | Preprint v1.2 (2026-10) | [10.5281/zenodo.23144013](https://doi.org/10.5281/zenodo.23144013) |
+| **Cold-Start Ranking** — architectural semantic labels predict memory use where graph methods go blind | Preprint v1.4 (2026-10) | [10.5281/zenodo.23160455](https://doi.org/10.5281/zenodo.23160455) |
+| **An Evidenced Account** — field notes from running a personal agent system (essay) | Published v1.3 (2026-10) | [10.5281/zenodo.23187419](https://doi.org/10.5281/zenodo.23187419) |
 
 ---
 
