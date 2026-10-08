@@ -8,7 +8,7 @@ Research papers by Baofeng Zhao on long-running agent memory systems. Preprints 
 | **Stopping as a Database Property** — reason-bearing termination for long-running LLM agents | TMLR #12935 desk rejected (2026-10) · Preprint v1.2 | [10.5281/zenodo.23144013](https://doi.org/10.5281/zenodo.23144013) |
 | **Cold-Start Ranking** — architectural semantic labels predict memory use where graph methods go blind | TMLR #12955 desk rejected (2026-10) · Preprint v1.4 | [10.5281/zenodo.23160455](https://doi.org/10.5281/zenodo.23160455) |
 | **An Evidenced Account** — field notes from running a personal agent system (essay) | Independent essay · Published v1.3 | [10.5281/zenodo.23187419](https://doi.org/10.5281/zenodo.23187419) |
-| **Fifty-Two Minutes at Critical Density?** — a quantitative dissection of one night of memory emergence | Preprint v1.1 | [10.5281/zenodo.23228767](https://doi.org/10.5281/zenodo.23228767) |
+| **Fifty-Two Minutes at Critical Density?** — a quantitative dissection of one night of memory emergence | Preprint v1.2 | [10.5281/zenodo.23228767](https://doi.org/10.5281/zenodo.23228767) |
 
 ---
 
@@ -55,6 +55,7 @@ paper/
   salience_ranking_metabolism_zh.pdf
   db_metacognition_en.pdf / db_metacognition_zh.pdf      # Paper 2
   coldstart_ranking_en.pdf / coldstart_ranking_zh.pdf    # Paper 3
+  emergence_night_en.pdf / emergence_night_zh.pdf          # Paper 5 (B)
   salience_ranking_metabolism_zh.pdf   # Chinese
   figures/                             # all 7 figures (PNG, 2x)
 tools/
