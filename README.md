@@ -9,7 +9,7 @@ Research papers by Baofeng Zhao on long-running agent memory systems. Preprints 
 | **Cold-Start Ranking** — architectural semantic labels predict memory use where graph methods go blind | TMLR #12955 desk rejected (2026-10) · Preprint v1.4 | [10.5281/zenodo.23160455](https://doi.org/10.5281/zenodo.23160455) |
 | **An Evidenced Account** — field notes from running a personal agent system (essay) | Independent essay · Published v1.3 | [10.5281/zenodo.23187419](https://doi.org/10.5281/zenodo.23187419) |
 | **Fifty-Two Minutes at Critical Density?** — a quantitative dissection of one night of memory emergence | Preprint v1.2 | [10.5281/zenodo.23228767](https://doi.org/10.5281/zenodo.23228767) |
-| **Which Surfaces Obey?** — registration of an explicit address instruction across the layers of a deployed personal agent system | Preprint v1.0 | [10.5281/zenodo.23497771](https://doi.org/10.5281/zenodo.23497771) |
+| **Which Surfaces Obey?** — registration of an explicit address instruction across the layers of a deployed personal agent system | Preprint v1.1 | [10.5281/zenodo.23497771](https://doi.org/10.5281/zenodo.23497771) |
 
 ---
 
@@ -53,11 +53,12 @@ The paper contributes a signal taxonomy with four invariants (I0–I3), seven de
 ```
 paper/
   salience_ranking_metabolism.pdf      # Paper 1 (EN, DOI version)
-  salience_ranking_metabolism_zh.pdf
+  salience_ranking_metabolism_zh.pdf   # Chinese
   db_metacognition_en.pdf / db_metacognition_zh.pdf      # Paper 2
   coldstart_ranking_en.pdf / coldstart_ranking_zh.pdf    # Paper 3
+  essay_evidenced_account_en.pdf / essay_evidenced_account_zh.pdf   # Paper 4 (essay)
   emergence_night_en.pdf / emergence_night_zh.pdf          # Paper 5 (B)
-  salience_ranking_metabolism_zh.pdf   # Chinese
+  address_uptake_en.pdf / address_uptake_zh.pdf            # Paper 6 (D)
   figures/                             # all 7 figures (PNG, 2x)
 tools/
   silence_test.md                      # The Silence Test — audit protocol
